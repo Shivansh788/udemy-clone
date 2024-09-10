@@ -15,4 +15,8 @@ with there :- <br/>
 - Prize
 - Rating
 - what is lecture abour(name of lecture)
-- 
+- lecture tutor name
+
+Followed by recommended lecture 
+
+In the last there is footer which consist of partners and other basic info

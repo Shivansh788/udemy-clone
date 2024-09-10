@@ -20,3 +20,7 @@ with there :- <br/>
 Followed by recommended lecture 
 
 In the last there is footer which consist of partners and other basic info
+
+<img src="./images/Screenshot 2024-09-10 084007.png" alt="flowchart1">
+<img src="./images/Screenshot 2024-09-10 084039.png" alt="flowchart2">
+<img src="./images/Screenshot 2024-09-10 084111.png" alt="flowchart3">
